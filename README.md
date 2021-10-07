@@ -1,8 +1,8 @@
-### Holi 👋, soy Dani
+### Holi 👋 soy Dani
 
 Habilidades: REACT / JS / HTML / CSS
 
-- 🔭 Estoy trabajando en this page.Actualmente desarrollo aplicaciones web en React 
+- 👩‍💻 Actualmente desarrollo aplicaciones web en React 
 - 🌱 Me estoy especializando en el stack M.E.R.N. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danillano)
@@ -14,3 +14,5 @@ Habilidades: REACT / JS / HTML / CSS
 Tecnologías que uso a diario o use anteriormente 👩‍💻
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/danillano97/my-stack)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniLlano&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
